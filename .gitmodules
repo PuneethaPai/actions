@@ -1,0 +1,6 @@
+[submodule ".github/actions/checkout"]
+	path = .github/actions/checkout
+	url = git@github.com:actions/checkout.git
+[submodule ".github/actions/setup-python"]
+	path = .github/actions/setup-python
+	url = git@github.com:actions/setup-python
